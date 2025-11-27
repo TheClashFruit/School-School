@@ -1,4 +1,4 @@
-# Pizza
+# School
 
 ## Futtatás
 
